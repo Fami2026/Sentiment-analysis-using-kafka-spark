@@ -117,8 +117,7 @@ Don't forget to give the project a star! Thanks again!
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
-## Contact
-Website - [joetelila.com](https://joetelila.com) 
 
-Project Link: [https://github.com/joetelila/Sentiment-analysis-using-kafka-spark](https://github.com/joetelila/Sentiment-analysis-using-kafka-spark)
+
+Project Link: https://github.com/Fami2026/Sentiment-analysis-using-kafka-spark
 
