@@ -31,7 +31,7 @@ Twitter sentiment analysis using Apache Kafka, Apache Spark structured streaming
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img class="center" src="https://user-images.githubusercontent.com/40062131/168147166-e75c245e-e9a2-454b-8daa-6958a628dc27.png" width="70%" height="70%" alt="some_text">
+
 
 This project is for `Distributed enabling platforms course 21/22 A.Y` at `unipi` given by `Prof. Patrizio Dazzi`. I implemeted a tweet sentiment analysis using distributed systems. Technologies used will be listed below. In this project, you will find three separate modules (applications).
 * `Kafka-producer` : This module reads tweets from twitter API and publish tweets to kafka topic continously.
